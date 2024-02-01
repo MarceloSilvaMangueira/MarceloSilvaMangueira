@@ -1,4 +1,4 @@
-## Olá! Eu sou o Maarcelo Silva Mangueira 🖐️
+## Olá! Eu sou o Marcelo SM 🖐️
 
 ![Marcelo SM GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloSilvaMangueira&show_icons=true&theme=dracula&count_private=true)
 
